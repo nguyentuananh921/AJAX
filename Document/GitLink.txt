@@ -1,0 +1,2 @@
+https://www.ezzylearning.net/tutorial/building-asp-net-core-apps-with-clean-architecture
+https://github.com/ezzylearning/CleanArchitectureDemo
